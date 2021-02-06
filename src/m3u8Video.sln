@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m3u8Video", "m3u8Video\m3u8Video.csproj", "{AB272018-EB88-4DF2-A029-10D6A1C897A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{F639D400-A277-42B7-85D0-B728C18F11B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB272018-EB88-4DF2-A029-10D6A1C897A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB272018-EB88-4DF2-A029-10D6A1C897A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB272018-EB88-4DF2-A029-10D6A1C897A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB272018-EB88-4DF2-A029-10D6A1C897A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F639D400-A277-42B7-85D0-B728C18F11B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F639D400-A277-42B7-85D0-B728C18F11B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F639D400-A277-42B7-85D0-B728C18F11B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F639D400-A277-42B7-85D0-B728C18F11B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CB97032-60AC-4E48-A563-5E18FF9B1F88}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\zhuzuo\source\repos\m3u8Video\m3u8Video\bin\Debug\m3u8Video.dll.config
+C:\Users\zhuzuo\source\repos\m3u8Video\m3u8Video\bin\Debug\m3u8Video.dll
+C:\Users\zhuzuo\source\repos\m3u8Video\m3u8Video\bin\Debug\m3u8Video.pdb
+C:\Users\zhuzuo\source\repos\m3u8Video\m3u8Video\bin\Debug\RestSharp.dll
+C:\Users\zhuzuo\source\repos\m3u8Video\m3u8Video\bin\Debug\RestSharp.xml
+C:\Users\zhuzuo\source\repos\m3u8Video\m3u8Video\obj\Debug\m3u8Video.csprojAssemblyReference.cache
+C:\Users\zhuzuo\source\repos\m3u8Video\m3u8Video\obj\Debug\m3u8Video.csproj.CoreCompileInputs.cache
+C:\Users\zhuzuo\source\repos\m3u8Video\m3u8Video\obj\Debug\m3u8Video.csproj.CopyComplete
+C:\Users\zhuzuo\source\repos\m3u8Video\m3u8Video\obj\Debug\m3u8Video.dll
+C:\Users\zhuzuo\source\repos\m3u8Video\m3u8Video\obj\Debug\m3u8Video.pdb
